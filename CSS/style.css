@@ -1,0 +1,42 @@
+  <style>
+    header {
+      color: white;
+      font-size: 20px;
+    }
+
+    body{
+      background: url(https://i.imgur.com/MYfXo09.jpg);
+      background-size: cover;
+    }
+
+    ul {
+      padding: 10px;
+      font-family: 'Slabo 27px', serif;
+    }
+
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+
+    li.website_name{
+      float: left;
+    }
+
+    li.right {
+      float: right;
+    }
+
+    input.email {
+     border: 0;
+     padding: 10px;
+     font-size: 18px;
+   }
+
+   input[type="submit"] {
+     background: red;
+     color: white;
+     font-size: 18px;
+   }
+
+  </style>
